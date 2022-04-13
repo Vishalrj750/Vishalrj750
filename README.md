@@ -18,7 +18,7 @@ I'm a MERN stack Developer 🚀 who is Passionate about coding and strongly inte
 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ThfVzAYp4ow48xUfXNuR4Ki0pr4yZPzO/view?usp=sharing)
 
-- 📫 How to reach me **manishhansalmeh@gmail.com**
+- 📫 How to reach me **vishalsingh8574031285@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
