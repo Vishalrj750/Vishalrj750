@@ -1,33 +1,103 @@
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h3 align="center">Passionate about web development🌟.</h3>
 
-# KFC Clone using HTML5, CSS3 and Javascript
-
-KFC is world famous veg and non-veg food serving app.
-By using this app we can order our meal at any time anywhere and the order get delivered to our doorstep.
-
-# Myntra Clone using HTML5, CSS3, ReactJS, ReduxJS
-
-Myntra is an E-Commerce website which serves all kinds of latest fashion clothes and household products to their customers.
-
-
-
-<h1 align="center">Hi there! I'm Vishal Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
-
-<h2 align="center">Though I graduated in Electronics and Communication , I aspire to work as a programmer.</h2>
-
-
-<h2 align="center">Currently learning at <a href="https://masaischool.com/">MASAI School</a> Full-Stack Software Development. building new and delightful projects with the community.</h2>
-
-### Skilled in 
-[![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857)](#) &nbsp; [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-409142?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=409142)](#)
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Vishalrj750&show_icons=true&count_private=true&theme=radical" width="550"></a>
+<br>
+<p>
+I'm a MERN stack Developer 🚀 who is Passionate about coding and strongly interested in obtaining a Software Developer position to work on enhancing the product experience. 
+  I enjoy working with ReactJS, Redux and CSS on the fronted, NodeJS and Express on the backend to build single page application.
 </p>
 
-### 😄 Pronouns: He/his
+<h3>My personal stuffs</h3>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-a9b811190/)
+- 🌱  I’m currently exploring and learning Web Development;
 
+- ⚡ I’m looking to collaborate with other content creators;
 
-<h3>Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=himrd95.himrd95"></img></h3>
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ThfVzAYp4ow48xUfXNuR4Ki0pr4yZPzO/view?usp=sharing)
+
+- 📫 How to reach me **manishhansalmeh@gmail.com**
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishal-singh-a9b811190/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="vishal" height="30" width="40" /></a>
+  <a href="https://wa.me/+918574031285" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+      alt="manishkumar" height="30" width="40" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" margin-right="5px"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> 
+  </a> 
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" margin-right="5px"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" margin-right="5px"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" margin-right="5px"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 
+         alt="redux" width="40" height="40" margin-right="5px" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="mysql" width="40" height="40" margin-right="5px"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+         alt="mongoDb" width="40" height="40" margin-right="5px"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
+         alt="materialui" width="40" height="40" margin-right="5px"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+        alt="express" width="40" height="40" margin-right="5px" />
+  </a>
+  
+</p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishalrj750&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishalrj750&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalrj750&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+
+[Vishal Singh](https://github.com/Vishalrj750)
