@@ -23,10 +23,10 @@ I'm a MERN stack Developer 🚀 who is Passionate about coding and strongly inte
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishal-singh-a9b811190/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/vishal-singh-a9b811190/" target='_blank'><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="vishal" height="30" width="40" /></a>
-  <a href="https://wa.me/+918574031285" target="blank"><img align="center"
+  <a href="https://wa.me/+918574031285" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="manishkumar" height="30" width="40" />
   </a>
