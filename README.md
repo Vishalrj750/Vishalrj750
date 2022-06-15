@@ -16,7 +16,7 @@ I'm a MERN stack Developer 🚀 who is Passionate about coding and strongly inte
 
 - ⚡ I’m looking to collaborate with other content creators;
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ThfVzAYp4ow48xUfXNuR4Ki0pr4yZPzO/view?usp=sharing)
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1lj1TVZpMe8NpfEcCN4ijBQe2qnUFqTvH?usp=sharing)
 
 - 📫 How to reach me **vishalsingh8574031285@gmail.com**
 <br>
@@ -25,10 +25,10 @@ I'm a MERN stack Developer 🚀 who is Passionate about coding and strongly inte
 <p align="left">
   <a href="https://www.linkedin.com/in/vishal-singh-a9b811190/" target='_blank'><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="vishal" height="30" width="40" /></a>
+      alt="vishalsingh" height="30" width="40" /></a>
   <a href="https://wa.me/+918574031285" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="manishkumar" height="30" width="40" />
+      alt="vishalsingh" height="30" width="40" />
   </a>
 </p>
 
